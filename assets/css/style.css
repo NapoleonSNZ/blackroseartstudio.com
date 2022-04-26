@@ -6297,6 +6297,10 @@ hr {
     padding: 80px 0 50px;
   }
 }
+.contact-section h1{
+  color: #A80537;
+}
+
 
 /* line 141, C:/Users/HP/Desktop/July-HTML/292 Health coach/assets/scss/_contact.scss */
 .contact-section .btn_2 {
